@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+
 
 Theme Name: Baker
 Theme URL: https://bootstrapmade.com/baker-free-onepage-bootstrap-theme/
