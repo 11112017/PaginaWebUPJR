@@ -47,16 +47,116 @@ include("include/menu.php");
 
 <div id="myCarousel" class="carousel slide homCar">
 		<div class="carousel-inner" style="border-top:18px solid #222; border-bottom:1px solid #222; border-radius:4px;">
+		  
+		  
 		  <div class="item active">
-			<img src="images/profes.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<img src="images/inge.jpg" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
-				  <h4>Redes y Telecomunicaciones</h4>
+				  <h4>¿Qué es Redes y Telecomunicaciones?</h4>
 				  <p>
-				   recuerde que en esta disciplina la práctica es la que da el dominio en el uso de las herramientas, estaremos siempre a la orden para compartir con usted experiencias y sobretodo para ayudarlo en el aprendizaje.
+				   Ingeniería en Redes y Telecomunicaciones es:
 				  </p>
 			</div>
 		  </div>
+		  
+		  
 		  <div class="item">
+			<img src="images/tele.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<div class="carousel-caption">
+				  <h4>Telecomunicaciones</h4>
+				  <p>
+				  Las telecomunicaciones son la trasmisión a distancia de datos de información por medios 
+				  electrónicos y/o tecnológicos.
+				  <br>
+				  Los datos de información son transportados a los circuitos de telecomunicaciones mediante 
+				  señales eléctricas.
+				  </p>
+			</div>
+		  </div>
+		  
+		   <div class="item">
+			<img src="images/infor.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<div class="carousel-caption">
+				  <h4>Informática
+</h4>
+				  <p>
+				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
+				  </p>
+			</div>
+		  </div>
+		  
+		   <div class="item">
+			<img src="images/redes.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<div class="carousel-caption">
+				  <h4>Redes
+</h4>
+				  <p>
+				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
+				  </p>
+			</div>
+		  </div>
+		  
+		   <div class="item">
+			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<div class="carousel-caption">
+				  <h4>Topografía</h4>
+				  <p>
+				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
+				  </p>
+			</div>
+		  </div>
+		  
+		   <div class="item">
+			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<div class="carousel-caption">
+				  <h4>Topografía</h4>
+				  <p>
+				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
+				  </p>
+			</div>
+		  </div>
+		  
+		   <div class="item">
+			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<div class="carousel-caption">
+				  <h4>Topografía</h4>
+				  <p>
+				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
+				  </p>
+			</div>
+		  </div>
+		  
+		   <div class="item">
+			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<div class="carousel-caption">
+				  <h4>Topografía</h4>
+				  <p>
+				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
+				  </p>
+			</div>
+		  </div>
+		  
+		   <div class="item">
+			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<div class="carousel-caption">
+				  <h4>Topografía</h4>
+				  <p>
+				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
+				  </p>
+			</div>
+		  </div>
+		  
+		   <div class="item">
+			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<div class="carousel-caption">
+				  <h4>Topografía</h4>
+				  <p>
+				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
+				  </p>
+			</div>
+		  </div>
+		  
+		   <div class="item">
 			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
 				  <h4>Topografía</h4>

@@ -66,7 +66,7 @@ if (@!$_SESSION['user']) {
 
 		<div class="caption">
 		
-<!--///////////////////////////////////////////////////Empieza cuerpo del documento interno////////////////////////////////////////////-->
+<!--Empieza cuerpo del documento interno-->
 		<h2> Administración de usuarios registrados</h2>	
 		<div class="well well-small">
 		<hr class="soft"/>
@@ -168,13 +168,11 @@ if (@!$_SESSION['user']) {
 <footer class="footer">
 
 <hr class="soften"/>
-<p>&copy; Copyright Joseph Godoy <br/><br/></p>
+<p>&copy; Magali Aguilera <br/><br/></p>
  </footer>
 </div><!-- /container -->
 
-    <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
+    
     <script src="bootstrap/js/jquery-1.8.3.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
 	</style>

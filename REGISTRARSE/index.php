@@ -9,7 +9,8 @@
 		<link rel="stylesheet" type="text/css" href="css/estilos/estilos.css">
 	<title>INICIO DE SESIÓN</title>
 </head>
-<body background="images/4G.jpg" style="background-repeat: no-repeat" "background-size:1319px 1000px" >
+<body  background="images/4G.jpg" style="background-repeat: no-repeat" >
+
 	<center><div class="tit"><h3 style="color: #0A0909  ; ">Bienvenido(a) a nuestra pagina:<br>
 	<h2 style="color: #3387F2; ">Ingeniería en Redes y Telecomunicaciones</h2></h3>
 	<br>
