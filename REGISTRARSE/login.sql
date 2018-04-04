@@ -40,9 +40,12 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`id`, `user`, `password`, `email`, `pasadmin`, `rol`) VALUES
-(6, 'Magali', 'magali', 'aguileram.17@hotmail.com', '', 2),
-(7, 'Gabriela', 'gaby123', '315030052@upjr.edu.mx', '', 2),
-(8, 'Jimena', 'jimenacalero', '315030037@upjr.edu.mx', '', 2);
+(1, 'Administrador', '', 'admin@gmail.com', '123456', 1),
+(2, 'Magali', 'magali', 'aguileram.17@hotmail.com', '', 2),
+(3, 'Gabriela', 'gaby123', '315030052@upjr.edu.mx', '', 2),
+(4, 'Jimena', 'jimenacalero', '315030037@upjr.edu.mx', '', 2),
+(5, 'Vianney Aguilera', 'ella', 'vianney_Aguilera@gmail.com', '', 2),
+(6, 'Jimena', 'asdf', '315030054@upjr.edu.mx', '', 2);
 
 --
 -- Índices para tablas volcadas
