@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.5.1
--- http://www.phpmyadmin.net
+-- version 4.6.6
+-- https://www.phpmyadmin.net/
 --
--- Servidor: 127.0.0.1
--- Tiempo de generación: 02-11-2016 a las 08:07:53
--- Versión del servidor: 10.1.10-MariaDB
--- Versión de PHP: 5.6.19
+-- Servidor: localhost
+-- Tiempo de generación: 04-04-2018 a las 14:32:32
+-- Versión del servidor: 5.7.17-log
+-- Versión de PHP: 5.6.30
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -40,10 +40,9 @@ CREATE TABLE `login` (
 --
 
 INSERT INTO `login` (`id`, `user`, `password`, `email`, `pasadmin`, `rol`) VALUES
-(1, 'Administrador', '', 'admin@gmail.com', '123456', 1),
-(2, 'Joseph', '12345', 'josephg059@gmail.com', '', 2),
-(4, 'joseph', '12345', 'joseph@gmail.com', '', 2),
-(5, 'paul', '1234', 'paul@gmail.com', '', 2);
+(6, 'Magali', 'magali', 'aguileram.17@hotmail.com', '', 2),
+(7, 'Gabriela', 'gaby123', '315030052@upjr.edu.mx', '', 2),
+(8, 'Jimena', 'jimenacalero', '315030037@upjr.edu.mx', '', 2);
 
 --
 -- Índices para tablas volcadas
@@ -63,7 +62,7 @@ ALTER TABLE `login`
 -- AUTO_INCREMENT de la tabla `login`
 --
 ALTER TABLE `login`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=9;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
