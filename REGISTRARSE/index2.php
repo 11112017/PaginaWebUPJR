@@ -61,7 +61,7 @@ include("include/menu.php");
 		  
 		  
 		  <div class="item">
-			<img src="images/tele.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<img src="images/tel.jpg" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
 				  <h4>Telecomunicaciones</h4>
 				  <p>
@@ -75,12 +75,12 @@ include("include/menu.php");
 		  </div>
 		  
 		   <div class="item">
-			<img src="images/infor.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<img src="images/inf.jpg" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
 				  <h4>Informática
 </h4>
 				  <p>
-				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
+				  La informática es un conjunto de conocimientos teóricos y prácticos, relativos al ámbito de la ciencia y de la tecnología, que se combinan para posibilitar el tratamiento racional y automático de la información mediante sistemas informáticos o computadoras, cuyas tareas principales son almacenar, procesar y transmitir la información.
 				  </p>
 			</div>
 		  </div>
@@ -91,90 +91,67 @@ include("include/menu.php");
 				  <h4>Redes
 </h4>
 				  <p>
-				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
+				  La red es un sistema de comunicación que se da entre distintos equipos para poder realizar una comunicación eficiente, rápida y precisa, para la transmisión de datos de un ordenador a otro, realizando entonces un Intercambio de Información.
+				  Puede a su vez dividirse en diversas categorías, según su alcance (red de área local o LAN, red de área metropolitana o MAN, red de área amplia o WAN, etc.)
 				  </p>
 			</div>
 		  </div>
 		  
 		   <div class="item">
-			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<img src="images/campolaboral.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+		  </div>
+		  
+		  
+		  
+		   <div class="item">
+			<img src="images/so.jpg" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
-				  <h4>Topografía</h4>
-				  <p>
-				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
-				  </p>
+				  <h4>Desarrollo de Software</h4>
+				  
 			</div>
 		  </div>
 		  
 		   <div class="item">
-			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<img src="images/invest.png" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
-				  <h4>Topografía</h4>
-				  <p>
-				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
-				  </p>
+				  <h4>investigación</h4>
+				 
 			</div>
 		  </div>
 		  
 		   <div class="item">
-			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<img src="images/consult.jpg" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
-				  <h4>Topografía</h4>
-				  <p>
-				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
-				  </p>
+				  <h4>Consultoría</h4>
+				
 			</div>
 		  </div>
 		  
 		   <div class="item">
-			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<img src="images/rad.jpg" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
-				  <h4>Topografía</h4>
-				  <p>
-				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
-				  </p>
+				  <h4>Radio y Televisión</h4>
+				  
 			</div>
 		  </div>
 		  
 		   <div class="item">
-			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<img src="images/teleco.jpg" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
-				  <h4>Topografía</h4>
-				  <p>
-				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
-				  </p>
+				  <h4>Telecomunicaciones</h4>
+				 
 			</div>
 		  </div>
 		  
 		   <div class="item">
-			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
+			<img src="images/aut.jpg" alt="#" style="min-height:250px; min-width:100%"/>
 			<div class="carousel-caption">
-				  <h4>Topografía</h4>
-				  <p>
-				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
-				  </p>
+				  <h4>Automatización</h4>
+				  
 			</div>
 		  </div>
-		  
-		   <div class="item">
-			<img src="images/1.jpg" alt="#" style="min-height:250px; min-width:100%"/>
-			<div class="carousel-caption">
-				  <h4>Topografía</h4>
-				  <p>
-				  La topografía aplicada permite adquirir los conocimientos necesarios para realizar levantamientos topográficos para futuras aplicaciones y proporciona la capacidad para resolver problemas que se presentan en el campo.
-				  </p>
-			</div>
 		  </div>
-		  <div class="item">
-			<img src="images/5.png" alt="#" style="min-height:250px; min-width:100%"/>
-			<div class="carousel-caption">
-				  <h4>Curso de Algebra Lineal </h4>
-				  <p>
-				  No olvide que la clave del éxito en el estudio de las herramientas matemáticas radica en el entendimiento cabal de los conceptos fundamentales y la aplicación razonada enla resolución de problemas.
-				  </p>
-			</div>
-		  </div>
-		</div>
+
 	<a class="left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
 	<a class="right carousel-control" href="#myCarousel" data-slide="next">›</a>
 </div>
@@ -241,14 +218,7 @@ al egresar les permita competir con ventaja en el ámbito laboral, de cara a las
 <br>tec_escolares@upjr.edu.mx</br>
 serv_escolares@upjr.edu.mx</p>
 
-<h3>Materias incluidas en el programa de aprendizaje de la carrera en Ingeniería en Redes y Telecomunicaciones</h3>
-<div class="row" style="text-align:center">
-			<div class="span2">
-				<div class="well well-small">
-					<h4>1er. Cuatrimestre</h4>
-					<a href="al.php"><small>Ver detalles</small></a>	
-				</div>
-			</div>			
+		
 			
 
     
